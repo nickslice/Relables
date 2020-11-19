@@ -77,6 +77,10 @@ h1, h2, h3, p, ul, ol {
 }
 
 /*--------------------*/
+body.lock {
+  overflow: hidden;
+}
+
 .wrapper {
   display: flex;
   flex-direction: column;
